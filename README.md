@@ -17,4 +17,4 @@ The lower the kyu number, the harder the challenge.
 
 [Kyu 4 - Palindrome chain length](https://github.com/adrian-spataru/codewars-solutions/blob/master/5kyu-palindrome_chain_length.md)
 
-
+[Kyu 7 - Printer Errors](https://github.com/adrian-spataru/codewars-solutions/blob/master/7kyu-printer_errors.md)
